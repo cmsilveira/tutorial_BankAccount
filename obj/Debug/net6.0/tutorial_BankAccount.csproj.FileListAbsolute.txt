@@ -1,0 +1,15 @@
+/home/matheus/Projetos/tutorial_BankAccount/bin/Debug/net6.0/tutorial_BankAccount
+/home/matheus/Projetos/tutorial_BankAccount/bin/Debug/net6.0/tutorial_BankAccount.deps.json
+/home/matheus/Projetos/tutorial_BankAccount/bin/Debug/net6.0/tutorial_BankAccount.runtimeconfig.json
+/home/matheus/Projetos/tutorial_BankAccount/bin/Debug/net6.0/tutorial_BankAccount.dll
+/home/matheus/Projetos/tutorial_BankAccount/bin/Debug/net6.0/ref/tutorial_BankAccount.dll
+/home/matheus/Projetos/tutorial_BankAccount/bin/Debug/net6.0/tutorial_BankAccount.pdb
+/home/matheus/Projetos/tutorial_BankAccount/obj/Debug/net6.0/tutorial_BankAccount.csproj.AssemblyReference.cache
+/home/matheus/Projetos/tutorial_BankAccount/obj/Debug/net6.0/tutorial_BankAccount.GeneratedMSBuildEditorConfig.editorconfig
+/home/matheus/Projetos/tutorial_BankAccount/obj/Debug/net6.0/tutorial_BankAccount.AssemblyInfoInputs.cache
+/home/matheus/Projetos/tutorial_BankAccount/obj/Debug/net6.0/tutorial_BankAccount.AssemblyInfo.cs
+/home/matheus/Projetos/tutorial_BankAccount/obj/Debug/net6.0/tutorial_BankAccount.csproj.CoreCompileInputs.cache
+/home/matheus/Projetos/tutorial_BankAccount/obj/Debug/net6.0/tutorial_BankAccount.dll
+/home/matheus/Projetos/tutorial_BankAccount/obj/Debug/net6.0/ref/tutorial_BankAccount.dll
+/home/matheus/Projetos/tutorial_BankAccount/obj/Debug/net6.0/tutorial_BankAccount.pdb
+/home/matheus/Projetos/tutorial_BankAccount/obj/Debug/net6.0/tutorial_BankAccount.genruntimeconfig.cache
